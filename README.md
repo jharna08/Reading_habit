@@ -1,4 +1,4 @@
-#Reading Habit Analysis
+##Reading Habit Analysis
 
 ## Initial Data Checks
 Initial data checks were conducted to assess dataset quality, including identifying null values and duplicate records. Some columns contained missing values, and the dataset included two duplicate rows. One duplicate row was removed to maintain data accuracy.
