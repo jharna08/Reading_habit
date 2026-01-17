@@ -17,11 +17,11 @@ Reading frequency can be influenced by factors such as employment type, retireme
 
 The results indicate:
 
-The number of women employed without pay was more than double that of men.
+* The number of women employed without pay was more than double that of men.
 
-Among retired readers, female readers outnumbered male readers.
+* Among retired readers, female readers outnumbered male readers.
 
-In both part-time and full-time employment, female readers outnumbered male readers.
+* In both part-time and full-time employment, female readers outnumbered male readers.
 
 These employment patterns may be associated with greater schedule flexibility, potentially contributing to higher reading engagement.
 
@@ -30,18 +30,18 @@ The dataset contains seven racial categories, with White respondents representin
 
 To enable fair comparison, reading rates (proportion of readers within each race) were calculated. The findings show that:
 
-The highest reading rate was observed among Asian or Pacific Islander respondents, followed by Mixed race respondents.
+* The highest reading rate was observed among Asian or Pacific Islander respondents, followed by mixed-race respondents.
 
-While White respondents formed the largest reader group numerically, reading participation was higher among Asian or Pacific Islander respondents.
+* While White respondents formed the largest reader group numerically, reading participation was higher among Asian or Pacific Islander respondents.
 
 ### Why is the reading rate higher among Asian or Pacific Islander Respondents?
 Education distribution appears to be a key factor. To evaluate this, education categories were grouped into a composite indicator called “college or higher”, combining:
 
-some college education
+* some college education
 
-college graduates
+* college graduates
 
-postgraduates
+* postgraduates
 
 This allowed consistent comparison of higher education exposure across racial groups. Asian or Pacific Islander respondents showed a notably higher representation in college-level education categories, which may explain their higher reading participation.
 To validate whether education influences reading participation broadly, the relationship between higher education and reading rates was examined across all races. The results confirmed that higher education is strongly associated with higher reading participation across every racial group, not only among Asian or Pacific Islander respondents.
