@@ -4,6 +4,7 @@
 Initial data checks were conducted to assess dataset quality, including identifying null values and duplicate records. Some columns contained missing values, and the dataset included two duplicate rows. One duplicate row was removed to maintain data accuracy.
 Unique values were also reviewed across key categorical variables such as Race, Marital Status, Income, Education, and Employment to understand category distributions and ensure consistency.
 
+
 ## Fixing a Data Quality Issue in the Income Column
 A data quality issue was identified in the Income column. The income range “1,00,000 to 1,50,000” appeared twice, but one version included an extra character ‘9’ at the beginning, making it an incorrect and separate string category.
 This inconsistency was corrected using the replace() function to standardize income categories.
